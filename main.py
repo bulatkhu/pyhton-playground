@@ -1,9 +1,3 @@
-import turtle
+import strings
 
-import weihnachtsbaum
-
-turtle.left(90)
-
-weihnachtsbaum.drawTree(4, 40)
-
-turtle.mainloop()
+print(strings.strings(['foo', [['bar', 'arb', ['sd', ['2', ['1', ['0']]]]], 'foo', []]]))
