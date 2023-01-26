@@ -2,6 +2,7 @@ import turtle
 
 angle = 117
 
+
 def drawTree(h, size):
     if h < 0:
         return
